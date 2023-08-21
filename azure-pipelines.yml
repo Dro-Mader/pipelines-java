@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: MacPool
+pool: MacInCloud
 
 steps:
 - task: Maven@3
